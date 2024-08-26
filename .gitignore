@@ -72,4 +72,3 @@ SM_Game/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 SM_Game/DerivedDataCache/*
-/SM_Game/Plugins
